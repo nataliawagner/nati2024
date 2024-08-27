@@ -5,5 +5,9 @@ Text-align: Center;
 }
 .p1{
   font-style: normal;
-  color: blue;
+  color: #d3830a;
 }  
+
+.parque {
+  width: 50%;
+}
