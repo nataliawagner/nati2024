@@ -10,4 +10,7 @@ Text-align: Center;
 
 .parque {
   width: 50%;
+  border: 2px;
+  marigin: 50px;
+  padding: 50px;
 }
